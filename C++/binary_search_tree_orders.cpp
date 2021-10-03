@@ -73,6 +73,7 @@ void postorder(BSTPTR t)
 
 int main() 
 {
+    clrscr();
     BSTPTR t = NULL;
     int key;
     //Input key values and insert to binary search tree
